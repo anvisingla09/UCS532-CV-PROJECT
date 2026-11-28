@@ -1,0 +1,5 @@
+Query,Expected Domain,Hit@1,Hit@5,MRR
+Traditional Indian painting,Art,0,1,0.5
+Famous historical buildings in India,Buildings,0,1,0.3333333333333333
+Ancient Indian historical monument,History,0,1,0.5
+Ancient Indian temple,Religion,1,1,1.0

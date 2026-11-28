@@ -1,0 +1,201 @@
+CLIP Weight,Query,Hit@1,Hit@5,MRR
+0.0,Traditional Indian painting,1,1,1.0
+0.0,Indian sculpture and artwork,1,1,1.0
+0.0,Ancient Indian artistic designs,0,1,0.5
+0.0,Traditional Indian handicrafts,1,1,1.0
+0.0,Indian musical instruments,1,1,1.0
+0.0,Traditional Indian folk art,1,1,1.0
+0.0,Indian cultural artefacts,1,1,1.0
+0.0,Ancient Indian statues,0,1,0.3333333333333333
+0.0,Traditional Indian decorative art,1,1,1.0
+0.0,Indian artistic heritage,1,1,1.0
+0.0,Famous Indian architectural structures,0,0,0.0
+0.0,Historic Indian forts and palaces,0,1,0.2
+0.0,Ancient Indian buildings,0,1,0.3333333333333333
+0.0,Traditional Indian architecture,0,0,0.0
+0.0,Historical Indian monuments,0,0,0.0
+0.0,Ancient Indian stone structures,0,0,0.0
+0.0,Indian heritage architecture,0,0,0.0
+0.0,Historic Indian gateways,0,1,0.2
+0.0,Traditional Indian houses,0,0,0.0
+0.0,Ancient Indian architectural sites,0,0,0.0
+0.0,Ancient Indian historical monuments,1,1,1.0
+0.0,Indian historical inscriptions,1,1,1.0
+0.0,Archaeological heritage of India,1,1,1.0
+0.0,Ancient Indian historical objects,1,1,1.0
+0.0,Indian archaeological discoveries,1,1,1.0
+0.0,Historical sites in India,1,1,1.0
+0.0,Ancient Indian stone carvings,1,1,1.0
+0.0,Indian historical landmarks,0,1,0.3333333333333333
+0.0,Ancient Indian artefacts,1,1,1.0
+0.0,Indian cultural history,0,1,0.5
+0.0,Ancient Indian temples,0,0,0.0
+0.0,Hindu religious heritage,0,1,0.3333333333333333
+0.0,Buddhist religious monuments,1,1,1.0
+0.0,Jain religious heritage,0,1,0.2
+0.0,Ancient Hindu shrines,1,1,1.0
+0.0,Buddhist sculptures and sites,1,1,1.0
+0.0,Indian religious architecture,0,1,0.5
+0.0,Jain temples and monuments,0,0,0.0
+0.0,Sacred Indian heritage sites,0,1,0.5
+0.0,Ancient Indian religious sculptures,1,1,1.0
+0.25,Traditional Indian painting,0,1,0.5
+0.25,Indian sculpture and artwork,0,1,0.3333333333333333
+0.25,Ancient Indian artistic designs,0,1,0.3333333333333333
+0.25,Traditional Indian handicrafts,0,1,0.5
+0.25,Indian musical instruments,1,1,1.0
+0.25,Traditional Indian folk art,1,1,1.0
+0.25,Indian cultural artefacts,0,1,0.5
+0.25,Ancient Indian statues,0,0,0.0
+0.25,Traditional Indian decorative art,0,1,0.5
+0.25,Indian artistic heritage,0,1,0.3333333333333333
+0.25,Famous Indian architectural structures,0,0,0.0
+0.25,Historic Indian forts and palaces,0,1,0.5
+0.25,Ancient Indian buildings,0,0,0.0
+0.25,Traditional Indian architecture,0,0,0.0
+0.25,Historical Indian monuments,0,0,0.0
+0.25,Ancient Indian stone structures,0,0,0.0
+0.25,Indian heritage architecture,0,1,0.2
+0.25,Historic Indian gateways,0,1,0.5
+0.25,Traditional Indian houses,0,1,0.25
+0.25,Ancient Indian architectural sites,0,0,0.0
+0.25,Ancient Indian historical monuments,1,1,1.0
+0.25,Indian historical inscriptions,1,1,1.0
+0.25,Archaeological heritage of India,1,1,1.0
+0.25,Ancient Indian historical objects,1,1,1.0
+0.25,Indian archaeological discoveries,1,1,1.0
+0.25,Historical sites in India,1,1,1.0
+0.25,Ancient Indian stone carvings,1,1,1.0
+0.25,Indian historical landmarks,1,1,1.0
+0.25,Ancient Indian artefacts,1,1,1.0
+0.25,Indian cultural history,1,1,1.0
+0.25,Ancient Indian temples,0,0,0.0
+0.25,Hindu religious heritage,1,1,1.0
+0.25,Buddhist religious monuments,1,1,1.0
+0.25,Jain religious heritage,0,1,0.5
+0.25,Ancient Hindu shrines,0,1,0.5
+0.25,Buddhist sculptures and sites,1,1,1.0
+0.25,Indian religious architecture,1,1,1.0
+0.25,Jain temples and monuments,0,0,0.0
+0.25,Sacred Indian heritage sites,0,1,0.25
+0.25,Ancient Indian religious sculptures,1,1,1.0
+0.5,Traditional Indian painting,0,1,0.5
+0.5,Indian sculpture and artwork,0,1,0.3333333333333333
+0.5,Ancient Indian artistic designs,0,1,0.25
+0.5,Traditional Indian handicrafts,1,1,1.0
+0.5,Indian musical instruments,1,1,1.0
+0.5,Traditional Indian folk art,1,1,1.0
+0.5,Indian cultural artefacts,0,1,0.3333333333333333
+0.5,Ancient Indian statues,0,0,0.0
+0.5,Traditional Indian decorative art,1,1,1.0
+0.5,Indian artistic heritage,0,1,0.5
+0.5,Famous Indian architectural structures,0,0,0.0
+0.5,Historic Indian forts and palaces,0,1,0.5
+0.5,Ancient Indian buildings,0,0,0.0
+0.5,Traditional Indian architecture,0,1,0.3333333333333333
+0.5,Historical Indian monuments,0,0,0.0
+0.5,Ancient Indian stone structures,0,0,0.0
+0.5,Indian heritage architecture,0,1,0.5
+0.5,Historic Indian gateways,0,1,0.5
+0.5,Traditional Indian houses,1,1,1.0
+0.5,Ancient Indian architectural sites,0,0,0.0
+0.5,Ancient Indian historical monuments,1,1,1.0
+0.5,Indian historical inscriptions,1,1,1.0
+0.5,Archaeological heritage of India,1,1,1.0
+0.5,Ancient Indian historical objects,1,1,1.0
+0.5,Indian archaeological discoveries,1,1,1.0
+0.5,Historical sites in India,1,1,1.0
+0.5,Ancient Indian stone carvings,1,1,1.0
+0.5,Indian historical landmarks,1,1,1.0
+0.5,Ancient Indian artefacts,1,1,1.0
+0.5,Indian cultural history,1,1,1.0
+0.5,Ancient Indian temples,0,1,0.2
+0.5,Hindu religious heritage,1,1,1.0
+0.5,Buddhist religious monuments,1,1,1.0
+0.5,Jain religious heritage,1,1,1.0
+0.5,Ancient Hindu shrines,0,1,0.5
+0.5,Buddhist sculptures and sites,0,1,0.5
+0.5,Indian religious architecture,1,1,1.0
+0.5,Jain temples and monuments,0,0,0.0
+0.5,Sacred Indian heritage sites,0,1,0.25
+0.5,Ancient Indian religious sculptures,1,1,1.0
+0.75,Traditional Indian painting,0,1,0.5
+0.75,Indian sculpture and artwork,0,1,0.25
+0.75,Ancient Indian artistic designs,0,0,0.0
+0.75,Traditional Indian handicrafts,1,1,1.0
+0.75,Indian musical instruments,1,1,1.0
+0.75,Traditional Indian folk art,1,1,1.0
+0.75,Indian cultural artefacts,1,1,1.0
+0.75,Ancient Indian statues,0,0,0.0
+0.75,Traditional Indian decorative art,1,1,1.0
+0.75,Indian artistic heritage,0,1,0.5
+0.75,Famous Indian architectural structures,0,0,0.0
+0.75,Historic Indian forts and palaces,1,1,1.0
+0.75,Ancient Indian buildings,0,0,0.0
+0.75,Traditional Indian architecture,0,0,0.0
+0.75,Historical Indian monuments,0,0,0.0
+0.75,Ancient Indian stone structures,0,0,0.0
+0.75,Indian heritage architecture,0,1,0.3333333333333333
+0.75,Historic Indian gateways,0,0,0.0
+0.75,Traditional Indian houses,0,1,0.5
+0.75,Ancient Indian architectural sites,0,0,0.0
+0.75,Ancient Indian historical monuments,1,1,1.0
+0.75,Indian historical inscriptions,1,1,1.0
+0.75,Archaeological heritage of India,1,1,1.0
+0.75,Ancient Indian historical objects,0,1,0.5
+0.75,Indian archaeological discoveries,1,1,1.0
+0.75,Historical sites in India,1,1,1.0
+0.75,Ancient Indian stone carvings,1,1,1.0
+0.75,Indian historical landmarks,0,1,0.5
+0.75,Ancient Indian artefacts,0,1,0.5
+0.75,Indian cultural history,1,1,1.0
+0.75,Ancient Indian temples,0,1,0.5
+0.75,Hindu religious heritage,1,1,1.0
+0.75,Buddhist religious monuments,1,1,1.0
+0.75,Jain religious heritage,1,1,1.0
+0.75,Ancient Hindu shrines,0,1,0.5
+0.75,Buddhist sculptures and sites,0,1,0.5
+0.75,Indian religious architecture,1,1,1.0
+0.75,Jain temples and monuments,0,1,0.25
+0.75,Sacred Indian heritage sites,0,1,0.3333333333333333
+0.75,Ancient Indian religious sculptures,1,1,1.0
+1.0,Traditional Indian painting,0,1,0.5
+1.0,Indian sculpture and artwork,1,1,1.0
+1.0,Ancient Indian artistic designs,0,1,0.5
+1.0,Traditional Indian handicrafts,0,1,0.5
+1.0,Indian musical instruments,1,1,1.0
+1.0,Traditional Indian folk art,1,1,1.0
+1.0,Indian cultural artefacts,1,1,1.0
+1.0,Ancient Indian statues,0,1,0.25
+1.0,Traditional Indian decorative art,1,1,1.0
+1.0,Indian artistic heritage,0,1,0.5
+1.0,Famous Indian architectural structures,0,1,0.5
+1.0,Historic Indian forts and palaces,0,1,0.3333333333333333
+1.0,Ancient Indian buildings,0,0,0.0
+1.0,Traditional Indian architecture,0,1,0.5
+1.0,Historical Indian monuments,0,1,0.5
+1.0,Ancient Indian stone structures,0,0,0.0
+1.0,Indian heritage architecture,0,1,0.3333333333333333
+1.0,Historic Indian gateways,0,1,0.2
+1.0,Traditional Indian houses,0,0,0.0
+1.0,Ancient Indian architectural sites,0,0,0.0
+1.0,Ancient Indian historical monuments,0,1,0.3333333333333333
+1.0,Indian historical inscriptions,1,1,1.0
+1.0,Archaeological heritage of India,0,1,0.5
+1.0,Ancient Indian historical objects,0,1,0.25
+1.0,Indian archaeological discoveries,1,1,1.0
+1.0,Historical sites in India,0,1,0.3333333333333333
+1.0,Ancient Indian stone carvings,1,1,1.0
+1.0,Indian historical landmarks,0,1,0.3333333333333333
+1.0,Ancient Indian artefacts,0,1,0.2
+1.0,Indian cultural history,1,1,1.0
+1.0,Ancient Indian temples,1,1,1.0
+1.0,Hindu religious heritage,0,1,0.5
+1.0,Buddhist religious monuments,1,1,1.0
+1.0,Jain religious heritage,0,1,0.5
+1.0,Ancient Hindu shrines,1,1,1.0
+1.0,Buddhist sculptures and sites,0,1,0.25
+1.0,Indian religious architecture,1,1,1.0
+1.0,Jain temples and monuments,1,1,1.0
+1.0,Sacred Indian heritage sites,1,1,1.0
+1.0,Ancient Indian religious sculptures,0,1,0.5

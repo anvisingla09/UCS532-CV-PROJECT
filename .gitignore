@@ -221,3 +221,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Project-specific exclusions
+
+# Dataset images and metadata
+data/images/
+data/dataset_manifest.csv
+data/selected_200.csv
+data/subset_manifest.csv
+
+# Model embeddings and checkpoints
+results/embeddings/
+*.pt
+*.pth
+*.ckpt
+
+# Local credentials and environment files
+.env
+.env.*

@@ -1,0 +1,121 @@
+Method,Query,Expected Domain,Hit@1,Hit@5,MRR
+CLIP,Traditional Indian painting,Art,0,1,0.5
+CLIP,Indian sculpture and artwork,Art,1,1,1.0
+CLIP,Ancient Indian artistic designs,Art,0,1,0.5
+CLIP,Traditional Indian handicrafts,Art,0,1,0.5
+CLIP,Indian musical instruments,Art,1,1,1.0
+CLIP,Traditional Indian folk art,Art,1,1,1.0
+CLIP,Indian cultural artefacts,Art,1,1,1.0
+CLIP,Ancient Indian statues,Art,0,1,0.25
+CLIP,Traditional Indian decorative art,Art,1,1,1.0
+CLIP,Indian artistic heritage,Art,0,1,0.5
+CLIP,Famous Indian architectural structures,Buildings,0,1,0.5
+CLIP,Historic Indian forts and palaces,Buildings,0,1,0.3333333333333333
+CLIP,Ancient Indian buildings,Buildings,0,0,0.0
+CLIP,Traditional Indian architecture,Buildings,0,1,0.5
+CLIP,Historical Indian monuments,Buildings,0,1,0.5
+CLIP,Ancient Indian stone structures,Buildings,0,0,0.0
+CLIP,Indian heritage architecture,Buildings,0,1,0.3333333333333333
+CLIP,Historic Indian gateways,Buildings,0,1,0.2
+CLIP,Traditional Indian houses,Buildings,0,0,0.0
+CLIP,Ancient Indian architectural sites,Buildings,0,0,0.0
+CLIP,Ancient Indian historical monuments,History,0,1,0.3333333333333333
+CLIP,Indian historical inscriptions,History,1,1,1.0
+CLIP,Archaeological heritage of India,History,0,1,0.5
+CLIP,Ancient Indian historical objects,History,0,1,0.25
+CLIP,Indian archaeological discoveries,History,1,1,1.0
+CLIP,Historical sites in India,History,0,1,0.3333333333333333
+CLIP,Ancient Indian stone carvings,History,1,1,1.0
+CLIP,Indian historical landmarks,History,0,1,0.3333333333333333
+CLIP,Ancient Indian artefacts,History,0,1,0.2
+CLIP,Indian cultural history,History,1,1,1.0
+CLIP,Ancient Indian temples,Religion,1,1,1.0
+CLIP,Hindu religious heritage,Religion,0,1,0.5
+CLIP,Buddhist religious monuments,Religion,1,1,1.0
+CLIP,Jain religious heritage,Religion,0,1,0.5
+CLIP,Ancient Hindu shrines,Religion,1,1,1.0
+CLIP,Buddhist sculptures and sites,Religion,0,1,0.25
+CLIP,Indian religious architecture,Religion,1,1,1.0
+CLIP,Jain temples and monuments,Religion,1,1,1.0
+CLIP,Sacred Indian heritage sites,Religion,1,1,1.0
+CLIP,Ancient Indian religious sculptures,Religion,0,1,0.5
+TF-IDF,Traditional Indian painting,Art,1,1,1.0
+TF-IDF,Indian sculpture and artwork,Art,1,1,1.0
+TF-IDF,Ancient Indian artistic designs,Art,0,1,0.5
+TF-IDF,Traditional Indian handicrafts,Art,1,1,1.0
+TF-IDF,Indian musical instruments,Art,1,1,1.0
+TF-IDF,Traditional Indian folk art,Art,1,1,1.0
+TF-IDF,Indian cultural artefacts,Art,1,1,1.0
+TF-IDF,Ancient Indian statues,Art,0,1,0.3333333333333333
+TF-IDF,Traditional Indian decorative art,Art,1,1,1.0
+TF-IDF,Indian artistic heritage,Art,1,1,1.0
+TF-IDF,Famous Indian architectural structures,Buildings,0,0,0.0
+TF-IDF,Historic Indian forts and palaces,Buildings,0,1,0.2
+TF-IDF,Ancient Indian buildings,Buildings,0,1,0.3333333333333333
+TF-IDF,Traditional Indian architecture,Buildings,0,0,0.0
+TF-IDF,Historical Indian monuments,Buildings,0,0,0.0
+TF-IDF,Ancient Indian stone structures,Buildings,0,0,0.0
+TF-IDF,Indian heritage architecture,Buildings,0,0,0.0
+TF-IDF,Historic Indian gateways,Buildings,0,1,0.2
+TF-IDF,Traditional Indian houses,Buildings,0,0,0.0
+TF-IDF,Ancient Indian architectural sites,Buildings,0,0,0.0
+TF-IDF,Ancient Indian historical monuments,History,1,1,1.0
+TF-IDF,Indian historical inscriptions,History,1,1,1.0
+TF-IDF,Archaeological heritage of India,History,1,1,1.0
+TF-IDF,Ancient Indian historical objects,History,1,1,1.0
+TF-IDF,Indian archaeological discoveries,History,1,1,1.0
+TF-IDF,Historical sites in India,History,1,1,1.0
+TF-IDF,Ancient Indian stone carvings,History,1,1,1.0
+TF-IDF,Indian historical landmarks,History,0,1,0.3333333333333333
+TF-IDF,Ancient Indian artefacts,History,1,1,1.0
+TF-IDF,Indian cultural history,History,0,1,0.5
+TF-IDF,Ancient Indian temples,Religion,0,0,0.0
+TF-IDF,Hindu religious heritage,Religion,0,1,0.3333333333333333
+TF-IDF,Buddhist religious monuments,Religion,1,1,1.0
+TF-IDF,Jain religious heritage,Religion,0,1,0.2
+TF-IDF,Ancient Hindu shrines,Religion,1,1,1.0
+TF-IDF,Buddhist sculptures and sites,Religion,1,1,1.0
+TF-IDF,Indian religious architecture,Religion,0,1,0.5
+TF-IDF,Jain temples and monuments,Religion,0,0,0.0
+TF-IDF,Sacred Indian heritage sites,Religion,0,1,0.5
+TF-IDF,Ancient Indian religious sculptures,Religion,1,1,1.0
+Hybrid,Traditional Indian painting,Art,0,1,0.5
+Hybrid,Indian sculpture and artwork,Art,0,1,0.3333333333333333
+Hybrid,Ancient Indian artistic designs,Art,0,1,0.25
+Hybrid,Traditional Indian handicrafts,Art,1,1,1.0
+Hybrid,Indian musical instruments,Art,1,1,1.0
+Hybrid,Traditional Indian folk art,Art,1,1,1.0
+Hybrid,Indian cultural artefacts,Art,0,1,0.3333333333333333
+Hybrid,Ancient Indian statues,Art,0,0,0.0
+Hybrid,Traditional Indian decorative art,Art,1,1,1.0
+Hybrid,Indian artistic heritage,Art,0,1,0.5
+Hybrid,Famous Indian architectural structures,Buildings,0,0,0.0
+Hybrid,Historic Indian forts and palaces,Buildings,0,1,0.5
+Hybrid,Ancient Indian buildings,Buildings,0,0,0.0
+Hybrid,Traditional Indian architecture,Buildings,0,1,0.3333333333333333
+Hybrid,Historical Indian monuments,Buildings,0,0,0.0
+Hybrid,Ancient Indian stone structures,Buildings,0,0,0.0
+Hybrid,Indian heritage architecture,Buildings,0,1,0.5
+Hybrid,Historic Indian gateways,Buildings,0,1,0.5
+Hybrid,Traditional Indian houses,Buildings,1,1,1.0
+Hybrid,Ancient Indian architectural sites,Buildings,0,0,0.0
+Hybrid,Ancient Indian historical monuments,History,1,1,1.0
+Hybrid,Indian historical inscriptions,History,1,1,1.0
+Hybrid,Archaeological heritage of India,History,1,1,1.0
+Hybrid,Ancient Indian historical objects,History,1,1,1.0
+Hybrid,Indian archaeological discoveries,History,1,1,1.0
+Hybrid,Historical sites in India,History,1,1,1.0
+Hybrid,Ancient Indian stone carvings,History,1,1,1.0
+Hybrid,Indian historical landmarks,History,1,1,1.0
+Hybrid,Ancient Indian artefacts,History,1,1,1.0
+Hybrid,Indian cultural history,History,1,1,1.0
+Hybrid,Ancient Indian temples,Religion,0,1,0.2
+Hybrid,Hindu religious heritage,Religion,1,1,1.0
+Hybrid,Buddhist religious monuments,Religion,1,1,1.0
+Hybrid,Jain religious heritage,Religion,1,1,1.0
+Hybrid,Ancient Hindu shrines,Religion,0,1,0.5
+Hybrid,Buddhist sculptures and sites,Religion,0,1,0.5
+Hybrid,Indian religious architecture,Religion,1,1,1.0
+Hybrid,Jain temples and monuments,Religion,0,0,0.0
+Hybrid,Sacred Indian heritage sites,Religion,0,1,0.25
+Hybrid,Ancient Indian religious sculptures,Religion,1,1,1.0

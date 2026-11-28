@@ -1,0 +1,8 @@
+Method,Expected Domain,Failures
+CLIP,Buildings,8
+CLIP,Religion,1
+Hybrid,Art,4
+Hybrid,Buildings,10
+Hybrid,Religion,2
+TF-IDF,Buildings,14
+TF-IDF,Religion,3

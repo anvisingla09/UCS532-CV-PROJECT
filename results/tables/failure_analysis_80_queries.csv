@@ -1,0 +1,43 @@
+Method,Query,Expected Domain,Hit@1,Hit@5,MRR
+CLIP,Ancient Indian buildings,Buildings,0,0,0.0
+CLIP,Ancient Indian stone structures,Buildings,0,0,0.0
+CLIP,Traditional Indian houses,Buildings,0,0,0.0
+CLIP,Ancient Indian architectural sites,Buildings,0,0,0.0
+CLIP,Ancient Indian cave architecture,Buildings,0,0,0.0
+CLIP,Ancient Indian architectural remains,Buildings,0,0,0.0
+CLIP,Ancient Indian rock-cut architecture,Buildings,0,0,0.0
+CLIP,Historical Indian forts,Buildings,0,0,0.0
+CLIP,Buddhist stone sculptures,Religion,0,0,0.0
+TF-IDF,Famous Indian architectural structures,Buildings,0,0,0.0
+TF-IDF,Traditional Indian architecture,Buildings,0,0,0.0
+TF-IDF,Historical Indian monuments,Buildings,0,0,0.0
+TF-IDF,Ancient Indian stone structures,Buildings,0,0,0.0
+TF-IDF,Indian heritage architecture,Buildings,0,0,0.0
+TF-IDF,Traditional Indian houses,Buildings,0,0,0.0
+TF-IDF,Ancient Indian architectural sites,Buildings,0,0,0.0
+TF-IDF,Ancient Indian temples,Religion,0,0,0.0
+TF-IDF,Jain temples and monuments,Religion,0,0,0.0
+TF-IDF,Ancient Indian cave architecture,Buildings,0,0,0.0
+TF-IDF,Traditional Indian monuments and structures,Buildings,0,0,0.0
+TF-IDF,Ancient Indian architectural remains,Buildings,0,0,0.0
+TF-IDF,Ancient Indian rock-cut architecture,Buildings,0,0,0.0
+TF-IDF,Historical Indian forts,Buildings,0,0,0.0
+TF-IDF,Traditional Indian architectural monuments,Buildings,0,0,0.0
+TF-IDF,Old Indian palace architecture,Buildings,0,0,0.0
+TF-IDF,Jain religious monuments in India,Religion,0,0,0.0
+Hybrid,Ancient Indian statues,Art,0,0,0.0
+Hybrid,Famous Indian architectural structures,Buildings,0,0,0.0
+Hybrid,Ancient Indian buildings,Buildings,0,0,0.0
+Hybrid,Historical Indian monuments,Buildings,0,0,0.0
+Hybrid,Ancient Indian stone structures,Buildings,0,0,0.0
+Hybrid,Ancient Indian architectural sites,Buildings,0,0,0.0
+Hybrid,Jain temples and monuments,Religion,0,0,0.0
+Hybrid,Ancient Indian bronze sculptures,Art,0,0,0.0
+Hybrid,Ancient Indian artistic carvings,Art,0,0,0.0
+Hybrid,Indian heritage sculptures,Art,0,0,0.0
+Hybrid,Ancient Indian cave architecture,Buildings,0,0,0.0
+Hybrid,Ancient Indian architectural remains,Buildings,0,0,0.0
+Hybrid,Ancient Indian rock-cut architecture,Buildings,0,0,0.0
+Hybrid,Historical Indian forts,Buildings,0,0,0.0
+Hybrid,Traditional Indian architectural monuments,Buildings,0,0,0.0
+Hybrid,Ancient religious carvings in India,Religion,0,0,0.0

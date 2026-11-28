@@ -1,0 +1,49 @@
+Query,Expected Domain,Method,Hit@1,Hit@5,MRR
+Traditional Indian painting,Art,CLIP,0,1,0.5
+Traditional Indian painting,Art,TF-IDF,1,1,1.0
+Traditional Indian painting,Art,Hybrid,0,1,0.5
+Indian sculpture and artwork,Art,CLIP,1,1,1.0
+Indian sculpture and artwork,Art,TF-IDF,1,1,1.0
+Indian sculpture and artwork,Art,Hybrid,0,1,0.3333333333333333
+Ancient Indian artistic designs,Art,CLIP,0,1,0.5
+Ancient Indian artistic designs,Art,TF-IDF,0,1,0.5
+Ancient Indian artistic designs,Art,Hybrid,0,1,0.25
+Traditional Indian handicrafts,Art,CLIP,0,1,0.5
+Traditional Indian handicrafts,Art,TF-IDF,1,1,1.0
+Traditional Indian handicrafts,Art,Hybrid,1,1,1.0
+Famous Indian architectural structures,Buildings,CLIP,0,1,0.5
+Famous Indian architectural structures,Buildings,TF-IDF,0,0,0.0
+Famous Indian architectural structures,Buildings,Hybrid,0,0,0.0
+Historic Indian forts and palaces,Buildings,CLIP,0,1,0.3333333333333333
+Historic Indian forts and palaces,Buildings,TF-IDF,0,1,0.2
+Historic Indian forts and palaces,Buildings,Hybrid,0,1,0.5
+Ancient Indian buildings,Buildings,CLIP,0,0,0.0
+Ancient Indian buildings,Buildings,TF-IDF,0,1,0.3333333333333333
+Ancient Indian buildings,Buildings,Hybrid,0,0,0.0
+Traditional Indian architecture,Buildings,CLIP,0,1,0.5
+Traditional Indian architecture,Buildings,TF-IDF,0,0,0.0
+Traditional Indian architecture,Buildings,Hybrid,0,1,0.3333333333333333
+Ancient Indian historical monuments,History,CLIP,0,1,0.3333333333333333
+Ancient Indian historical monuments,History,TF-IDF,1,1,1.0
+Ancient Indian historical monuments,History,Hybrid,1,1,1.0
+Indian historical inscriptions,History,CLIP,1,1,1.0
+Indian historical inscriptions,History,TF-IDF,1,1,1.0
+Indian historical inscriptions,History,Hybrid,1,1,1.0
+Archaeological heritage of India,History,CLIP,0,1,0.5
+Archaeological heritage of India,History,TF-IDF,1,1,1.0
+Archaeological heritage of India,History,Hybrid,1,1,1.0
+Ancient Indian historical objects,History,CLIP,0,1,0.25
+Ancient Indian historical objects,History,TF-IDF,1,1,1.0
+Ancient Indian historical objects,History,Hybrid,1,1,1.0
+Ancient Indian temples,Religion,CLIP,1,1,1.0
+Ancient Indian temples,Religion,TF-IDF,0,0,0.0
+Ancient Indian temples,Religion,Hybrid,0,1,0.2
+Hindu religious heritage,Religion,CLIP,0,1,0.5
+Hindu religious heritage,Religion,TF-IDF,0,1,0.3333333333333333
+Hindu religious heritage,Religion,Hybrid,1,1,1.0
+Buddhist religious monuments,Religion,CLIP,1,1,1.0
+Buddhist religious monuments,Religion,TF-IDF,1,1,1.0
+Buddhist religious monuments,Religion,Hybrid,1,1,1.0
+Jain religious heritage,Religion,CLIP,0,1,0.5
+Jain religious heritage,Religion,TF-IDF,0,1,0.2
+Jain religious heritage,Religion,Hybrid,1,1,1.0
